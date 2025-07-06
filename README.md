@@ -47,7 +47,7 @@ JBL C100SI Wired In Ear
 ![blessing tool](https://github.com/user-attachments/assets/58c1a6bf-52e4-4d60-9e5a-aba6fccecc95)
 
 ### pivot
-![image](https://github.com/user-attachments/assets/24458e0d-928b-471f-b2e2-4e1686223f67
+![image](https://github.com/user-attachments/assets/24458e0d-928b-471f-b2e2-4e1686223f67)
 
 ### Visuals
 ![image](https://github.com/user-attachments/assets/95044c44-3c90-440c-b8fb-8d83f20de27a)
