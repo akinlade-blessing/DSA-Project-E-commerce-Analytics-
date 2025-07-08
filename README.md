@@ -45,6 +45,8 @@ Exploratory Data Analysis (EDA) is the process of examining and summarizing a da
 ![image](https://github.com/user-attachments/assets/24458e0d-928b-471f-b2e2-4e1686223f67)
 
 ### Visuals
+![image](https://github.com/user-attachments/assets/a83e3b5a-06ef-457a-9e23-36de533c4abb)
+
 
 
 
