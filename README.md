@@ -45,7 +45,8 @@ Exploratory Data Analysis (EDA) is the process of examining and summarizing a da
 ![image](https://github.com/user-attachments/assets/24458e0d-928b-471f-b2e2-4e1686223f67)
 
 ### Visuals
-![image](https://github.com/user-attachments/assets/95044c44-3c90-440c-b8fb-8d83f20de27a)
+
+
 
 ### Recommendations
 The Amazon product review analysis should be done at regular intervals to help provide valuable insight for improvement, customer satisfaction, marketing strategies and driving busness growth. 
