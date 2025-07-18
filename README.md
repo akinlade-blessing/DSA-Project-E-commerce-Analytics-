@@ -16,7 +16,7 @@ The data set has a total record of 1,465 rows and total field of 16 columns.
 ### Background:
 As the e-commerce industry continues to grow, businesses require more sophisticated analytics to remain competitive. By leveraging data from platforms like Amazon,businesses can better understand market trends, optimize pricing and inventory, and personalize customer experiences.
 
-### Objective
+### Objectives
  - Identify top-rated products
  - Identify low rated products
  - Analyze product rating
